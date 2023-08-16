@@ -1,6 +1,3 @@
-
- Link da lib no npm: https://www.npmjs.com/package/q-coder?activeTab=readme
-
 # QR Code Generator
 
 | Props| Types|

@@ -1,5 +1,16 @@
 # QR Code Generator
 
+# Usage
+
+```
+import {QrCode} from 'q-coder';
+
+<QrCode flexDirection='...' JustifyContent='...' BgColor='...' BorderRadius='...'/>
+
+```
+
+# You can see all props and your types below
+
 | Props| Types|
 | :---------- | :--------- |
 | `FlexDirection` | `row` `column` `row-reverse` `column-reverse` |
